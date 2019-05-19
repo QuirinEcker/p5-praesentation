@@ -1,0 +1,26 @@
+body {
+  padding: 0;
+  margin: 0;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Lato', sans-serif;
+  overflow: hidden;
+}
+
+h1 {
+  padding: 2.5%;
+  margin: 0;
+  color: white;
+
+  width: 95%;
+  height: 20%;
+  background-color: #ed2760;
+}
+
+.content {
+  width: 60%;
+  height: 70%;
+  font-size: 25px;
+}
